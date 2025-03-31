@@ -18,6 +18,10 @@ Once IBM's AI processes the data and generates recommendations, the results are 
 
 The use of IBM Watsonx.ai in DeepWater not only optimizes water management but also demonstrates how artificial intelligence can be applied to solve critical challenges in sustainability and resource efficiency. By combining Granite's capabilities with the flexibility of Python and Streamlit, we were able to create a solution that not only analyzes consumption in real time but also offers personalized recommendations, helping businesses and households reduce waste and improve their environmental impact.
 
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/deepwater/blob/main/architecture.jpg">
+</p>
+
 ## Video demonstration URL (Martin)
 Video demonstration: 
 
