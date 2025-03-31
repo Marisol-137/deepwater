@@ -1,11 +1,29 @@
 # Deepwater
 
 ## Description 
-We have created a mobile application based on Watsonx.AI's Granite-3-8b-instruct model. Its main function is to provide recommendations for household water use from YF-S201 sensors and Wifi ESP32 microcontrollers that measure the flow of water consumed by each area of the house where water is used. The result is an application that allows the user to see how much water he and/or his/her family consumes for each area of his/her home and per day. With the database collected by the sensors, the chatbot can recommend and send alerts to the user on the efficient use of water. 
+We have created a mobile application based on Watsonx.AI's Granite-3-8b-instruct model. Its main function is to provide recommendations for household water use from YF-S401 sensors and Wifi ESP32 microcontrollers that measure the flow of water consumed by each area of the house where water is used. The result is an application that allows the user to see how much water he and/or his/her family consumes for each area of his/her home and per day. With the database collected by the sensors, the chatbot can recommend and send alerts to the user on the efficient use of water. 
+
+
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/deepwater/blob/main/HARDW2.jpg">
+</p>
+
+
 This technological solution mainly contributes to ODS 6 (Clean Water and Sanitation), by promoting efficient and responsible water consumption through IoT sensors and customized recommendations based on AI. In addition, it directly impacts ODS 11 (Sustainable Cities) and ODS 12 (Responsible Consumption), boosting sustainable household habits, and indirectly supports ODS 13 (Climate Action), as reducing water consumption also involves reducing energy expenditure related to its treatment and distribution.
+
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/deepwater/blob/main/DeepWater%20Mobile%20Prototype.png">
+</p>
+
 
 ## Problem and solution statement 
 Water waste affects the environment and household finances. The lack of real-time monitoring makes detecting excessive usage and leaks difficult, leading to inefficient resource use. To solve this, DeepWater is a smart app that allows users to track daily, weekly, and monthly water consumption, segmented by different areas of the home. It also provides an estimated monthly cost, helping to manage expenses efficiently. Additionally, it features an interactive chatbot that instantly answers questions and offers water-saving tips. For better control, the app sends real-time alerts when it detects excessive usage, allowing users to take corrective action and prevent waste.
+
+
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/deepwater/blob/main/16.png">
+</p>
+
 
 ## AI-powered virtual agent using IBM watsonx.ai 
 DeepWater was developed with an advanced artificial intelligence approach, utilizing IBM Watsonx.ai and its Granite model, which enabled enhanced water consumption analysis and optimization. From data acquisition to recommendation generation, the system was designed to leverage IBM's AI capabilities, ensuring accurate detection of anomalies and inefficient usage patterns.
@@ -24,7 +42,7 @@ Once IBM's AI processes the data and generates recommendations, the results are 
 
 
 <p align="center">
-  <img width="auto" height="auto" src="https://github.com/Marisol-137/deepwater/blob/main/DeepWater%20Mobile%20Prototype.png">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/deepwater/blob/main/DeepWater%20Mobile%20Prototype%20(4).png">
 </p>
 
 
@@ -40,7 +58,7 @@ The use of IBM Watsonx.ai in DeepWater not only optimizes water management but a
 
 
 <p align="center">
-  <img width="auto" height="auto" src="https://github.com/Marisol-137/deepwater/blob/main/DeepWater%20Mobile%20Prototype%20(1).png">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/deepwater/blob/main/11.png">
 </p>
 
 By combining Granite's capabilities with the flexibility of Python and Streamlit, we were able to create a solution that not only analyzes consumption in real time but also offers personalized recommendations, helping businesses and households reduce waste and improve their environmental impact.
