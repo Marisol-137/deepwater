@@ -17,7 +17,14 @@ This technological solution mainly contributes to ODS 6 (Clean Water and Sanitat
 
 
 ## Problem and solution statement 
-Water waste affects the environment and household finances. The lack of real-time monitoring makes detecting excessive usage and leaks difficult, leading to inefficient resource use. To solve this, DeepWater is a smart app that allows users to track daily, weekly, and monthly water consumption, segmented by different areas of the home. It also provides an estimated monthly cost, helping to manage expenses efficiently. Additionally, it features an interactive chatbot that instantly answers questions and offers water-saving tips. For better control, the app sends real-time alerts when it detects excessive usage, allowing users to take corrective action and prevent waste.
+Water waste affects the environment and household finances. The lack of real-time monitoring makes detecting excessive usage and leaks difficult, leading to inefficient resource use. To solve this, DeepWater is a smart app that allows users to track daily, weekly, and monthly water consumption, segmented by different areas of the home. 
+
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/deepwater/blob/main/DeepWater%20Mobile%20Prototype%20(5).png">
+</p>
+
+
+It also provides an estimated monthly cost, helping to manage expenses efficiently. Additionally, it features an interactive chatbot that instantly answers questions and offers water-saving tips. For better control, the app sends real-time alerts when it detects excessive usage, allowing users to take corrective action and prevent waste.
 
 
 <p align="center">
