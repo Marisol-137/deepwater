@@ -76,8 +76,8 @@ By combining Granite's capabilities with the flexibility of Python and Streamlit
 </p>
 
 
-## Video demonstration URL (Martin)
-Video demonstration: 
+## Video demonstration URL 
+Video demonstration: https://youtu.be/Odk4T1GTs20
 
 ## Demo
 Live Demo: https://www.canva.com/design/DAGjLKjPAHw/VbIv7s7mFwwLAppJZ9I5rA/view?mode=prototype
